@@ -37,10 +37,10 @@ sudo python3 rawd0gger.py <IP address> -p <port> -a <amount of packets to send>
 ### Notices
 
 
-**While this program randomizes the IP in the packets you are **not** fully anonymous, 
+**While this program randomises the IP in the packets you are **not** fully anonymous, 
 If you do wish to protect yourself use a proxy and/or VPN while running this program.**
 
-*Dont be stupid, use responsibly. We are not responsible for Malicous Use.*
+*Don't be stupid, use responsibly. We are not responsible for Malicious Use.*
 
 <sub>"*For educational purposes only.*"</sub>
 
