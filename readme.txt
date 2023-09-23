@@ -1,5 +1,6 @@
 Readme TXT
 (this is like a shittier version of the README.MD)
+Please get started with the instructions in the README.MD file rather than this file if you can.
 
 rawd0gger is a simple Multithreaded L4 Python DOS Attack.
 
