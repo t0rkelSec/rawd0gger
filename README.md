@@ -1,13 +1,30 @@
 # rawd0gger
 **rawd0gger is a simple Multithreaded L4 Python DOS Attack.**
 
-## Download
 
-To download and use rawd0gger run the command,
+
+## Download
+<sub>The commands in this document are for primarily Linux systems but it's pretty easy to figure out how to run this on other systems with a little bit of research.</sub>
+
+## Requirments
+*Requirments:*
+
+**Python3** if you don't already have python3 you can get it at,
+
+ https://www.python.org/downloads/
+
+
+**Scapy for Python3**
+  can be installed via the command,
+  ```
+  sudo apt-get install python3-scapy
+  ```
+
+Now to download and use rawd0gger run the commands,
 ```
 git clone https://github.com/t0rkelSec/rawd0gger.git
 ```
-Or Download the code from https://github.com/t0rkelSec/rawd0gger/releases
+Or you can download rawd0gger from https://github.com/t0rkelSec/rawd0gger/releases
 
 ## Usage
 To run the program, first open the rawd0gger directory in your terminal and then run: 
@@ -17,7 +34,7 @@ To run the program, first open the rawd0gger directory in your terminal and then
 sudo python3 rawd0gger.py <IP address> 
 ```
 
-*Once the program starts it will ask you for how many threads to run, Atleast one is required for the program to work.*
+*Once the program starts it will ask you for how many threads to run, At least one is required for the program to work.*
 
 **Please read the arguments section below to understand how to run the program with your prefered configuration**
 
