@@ -1,8 +1,6 @@
 # rawd0gger
 **rawd0gger is a simple Multithreaded L4 Python DOS Attack.**
 
-*v0.1*
-
 ## Download
 
 To download and use rawd0gger run the command,
