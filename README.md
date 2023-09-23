@@ -67,6 +67,8 @@ If you do wish to protect yourself use a proxy and/or VPN while running this pro
 
 *Don't be stupid, use responsibly. We are not responsible for Malicious Use.*
 
+Work in Progress, May still have bugs.
+
 <sub>"*For educational purposes only.*"</sub>
 
 
