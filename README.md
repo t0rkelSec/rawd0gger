@@ -1,5 +1,5 @@
 # rawd0gger
-**rawd0gger is a simple Multithreaded L4 Python DOS Attack.**
+**rawd0gger is a simple Multithreaded L4 Python Denial-of-service Attack.**
 
 
 
