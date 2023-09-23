@@ -3,13 +3,15 @@
 
 *v0.1*
 
-## Usage
+## Download
 
 To download and use rawd0gger run the command,
 ```
 git clone https://github.com/t0rkelSec/rawd0gger.git
 ```
+Or Download the code from https://github.com/t0rkelSec/rawd0gger/releases
 
+## Usage
 To run the program, first open the rawd0gger directory in your terminal and then run: 
 
 <sub>It is recomended that you learn the arguments before running the program.</sub>
