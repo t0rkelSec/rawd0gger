@@ -1,7 +1,22 @@
 # rawd0gger
 **rawd0gger is a simple Multithreaded L4 Python Denial-of-service Attack.**
 
-
+```
+3d0g rawd0gger 2023 rawd0gger rawd0gger rawd0gger rawd0gger rawd0gger
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@x██▀███xxx▄▄▄xxxxxxx█xxxxx█░▓█████▄xxx▄████xxx▄████x▓█████xx██▀███xx@
+@▓██x▒x██▒▒████▄xxxx▓█░x█x░█░▒██▀x██▌x██▒x▀█▒x██▒x▀█▒▓█xxx▀x▓██x▒x██▒@
+@▓██x░▄█x▒▒██xx▀█▄xx▒█░x█x░█x░██xxx█▌▒██░▄▄▄░▒██░▄▄▄░▒███xxx▓██x░▄█x▒@
+@▒██▀▀█▄xx░██▄▄▄▄██x░█░x█x░█x░▓█▄xxx▌░▓█xx██▓░▓█xx██▓▒▓█xx▄x▒██▀▀█▄xx@
+@░██▓x▒██▒x▓█xxx▓██▒░░██▒██▓x░▒████▓x░▒▓███▀▒░▒▓███▀▒░▒████▒░██▓x▒██▒@
+@░x▒▓x░▒▓░x▒▒xxx▓▒█░░x▓░▒x▒xxx▒▒▓xx▒xx░▒xxx▒xx░▒xxx▒x░░x▒░x░░x▒▓x░▒▓░@
+@xx░▒x░x▒░xx▒xxx▒▒x░xx▒x░x░xxx░x▒xx▒xxx░xxx░xxx░xxx░xx░x░xx░xx░▒x░x▒░@
+@xx░░xxx░xxx░xxx▒xxxxx░xxx░xxx░x░xx░x░x░xxx░x░x░xxx░xxxx░xxxxx░░xxx░x@
+@xxx░xxxxxxxxxxx░xx░xxxx░xxxxxxx░xxxxxxxxxx░xxxxxxx░xxxx░xx░xxx░xxxxx@
+@xxxxxxxxxxxxxxxxxxxxxxxxxxxxx░xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+t0rkelSec rawd0gger rawd0gger rawd0gger rawd0gger rawd0gger rawd0gger
+```
 
 ## Download
 <sub>The commands in this document are for primarily Linux systems but it's pretty easy to figure out how to run this on other systems with a little bit of research.</sub>
