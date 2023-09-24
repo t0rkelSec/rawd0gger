@@ -101,3 +101,5 @@ if __name__=="__main__":
     for i in range(Thread_Ammount):
         thread = threading.Thread(target=main)
         thread.start()
+
+#for all the skids out there lol
