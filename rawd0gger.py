@@ -7,7 +7,7 @@ import time
 from scapy.all import send, IP, TCP
 
 #Version and Info
-version = "0.1"
+version = "1.0.0"
 print("3dog rawd0gger DOS tool, t0rkelSec 2023. \n Version: " + version + "\n")
 
 print(r""" rawd0gger    rawd0gger    rawd0gger    rawd0gger    rawd0gger    rawd0gger    rawd0gger    rawd0gger    rawd0gger     
